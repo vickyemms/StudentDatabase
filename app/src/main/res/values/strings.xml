@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">StudentDatabase</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_program">Enter program</string>
+    <string name="enter_year_started">Enter year started</string>
+    <string name="enter_graduation_year">Enter graduation year</string>
+    <string name="add">Add</string>
 </resources>
